@@ -76,7 +76,7 @@ def decode_val(list_in):
  
  
 if __name__ == "__main__":
-    print('Введите текст,который нужно расшифровать на eng')
+    print('Введите текст,который нужно зашифровать на eng')
     word = (input())
     key = 'key'
    
